@@ -30,7 +30,7 @@ Built solo: a production React Native/Expo app (podcasts, videos, blogs, e-books
 
 Client and company work lives on separate accounts:
 - **[@shehzar-dedicate](https://github.com/shehzar-dedicate)** — ongoing work for Dedicate, a VC-backed asset management platform
-- **[@shehzar-devnito](https://github.com/shehzar-devnito)** — client projects at Devnito:
+- **[@shehzer-devnito](https://github.com/shehzer-devnito)** — client projects at Devnito:
   - **Hospital Management System** — modular NestJS backend (patients, appointments, billing, queue, staff admin), PostgreSQL with 4-tier RBAC, JWT auth, server-side PDF generation. Deployed via Docker.
   - **[zoerealtyuae.com](https://zoerealtyuae.com)** — Next.js + Sanity
   - **[cannes2026.cognitiv.ai](https://cannes2026.cognitiv.ai)** — Next.js site
@@ -43,8 +43,3 @@ Client and company work lives on separate accounts:
 `React` `React Native` `Next.js` `TypeScript` `NestJS` `PostgreSQL` `Prisma` `TanStack Query` `Supabase` `Auth0` `Docker` `GitHub Actions` `EAS` `Claude API`
 
 ---
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shehzer-Aurangzeb&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehzer-Aurangzeb&layout=compact&hide_border=true" height="165" alt="Top languages" />
-</p>
