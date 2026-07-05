@@ -35,7 +35,7 @@ Client and company work lives on separate accounts:
   - **[zoerealtyuae.com](https://zoerealtyuae.com)** — Next.js + Sanity
   - **[cannes2026.cognitiv.ai](https://cannes2026.cognitiv.ai)** — Next.js site
   - ...and many more
-- **[@shehzar-abbasi-SG](https://github.com/shehzar-abbasi-SG)** — Union AI, agentic AI mobile app (2025) — 520+ contributions, 43% PRs / 51% commits / 6% code reviews
+- **[@shehzar-abbasi-SG](https://github.com/shehzar-abbasi-SG)** — Union AI, agentic AI mobile app (2025) — 500+ contributions.
 
 ---
 
