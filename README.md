@@ -6,8 +6,7 @@ I build production mobile apps, web apps, and full-stack systems, and lately I'v
 
 📍 Montreal, QC, Canada · 📧 [shehzerabbasi621@gmail.com](mailto:shehzerabbasi621@gmail.com)
 
-**[Portfolio](https://shehzaraurangzeb.com)** · **[LinkedIn](https://www.linkedin.com/in/shehzar-aurangzeb-70009520b/)** · **[Resume](https://lujsrvdkawuhnsffwsns.supabase.co/storage/v1/object/sign/cvs/ShehzarAurangzeb_CV.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV81MjY3NmI5Ni1kYzE4LTRiYzItODIzOC01NGJlOTgwYzU3NmUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJjdnMvU2hlaHphckF1cmFuZ3plYl9DVi5wZGYiLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzgzMjE5MDc4LCJleHAiOjE4MTQ3NTUwNzh9.MXidIr1-PHZ8bYej461YtSK0iYQ0-5r5DRdnS2CTvUk)**
-
+**[Portfolio](https://shehzaraurangzeb.com)** · **[LinkedIn](https://www.linkedin.com/in/shehzar-aurangzeb-70009520b/)**
 ---
 
 ### Featured work
